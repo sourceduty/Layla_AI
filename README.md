@@ -11,6 +11,8 @@ One of Layla's standout features is its ability to load local .gguf files, allow
 #
 ### Optimization
 
+![Smartphone](https://github.com/user-attachments/assets/73a3255e-6226-47a1-a23e-e8caf2c2570b)
+
 Optimizing Layla for each make and model of smartphone requires a tailored approach based on the device's hardware specifications. High-end devices, such as those with flagship Snapdragon or Apple A-series chipsets, are well-suited for running advanced AI models like Layla Full. For these devices, utilizing a high thread count (e.g., 4–6 threads) allows for faster processing and responsiveness. Additionally, enabling high-performance or gaming modes can ensure the CPU and GPU operate at their peak capacity. To avoid throttling, users should monitor device temperature and close unnecessary background applications to free up system resources. Ensuring sufficient internal storage (10–15% free space) and clearing app caches periodically can also enhance performance.
 
 For mid-range or budget devices, Layla Lite or a simplified model configuration is a more practical choice. These devices often have lower RAM and weaker CPUs, so setting a lower thread count (e.g., 2–3 threads) helps balance performance and stability. Disabling non-essential features, such as advanced animations or extended context lengths, can improve speed and reduce battery drain. Users should also keep their devices updated to the latest firmware, as manufacturers often release optimizations for resource-intensive applications. Additionally, managing background processes and prioritizing Layla through app settings can provide smoother operation on less powerful smartphones.
