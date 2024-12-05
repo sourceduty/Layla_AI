@@ -10,6 +10,8 @@ One of Layla's standout features is its ability to load local .gguf files, allow
 #
 ### Layla Name
 
+![ChatGPT](https://github.com/user-attachments/assets/0fed1d99-0e4d-45f8-badf-4d2fc7caa9ac)
+
 The name Layla, with its origins in Arabic meaning "night" or "dark beauty," has gained significant popularity in recent years, especially in Western countries. Its lyrical sound and romantic connotations have made it a favorite among parents seeking a name that is both elegant and modern. Layla has been featured prominently in songs and literature, adding to its charm and recognition. Rankings in baby name charts reveal a steady rise in its use, particularly in English-speaking countries, where it often appears among the top names for girls. Its widespread appeal transcends cultural boundaries, making it a name that feels timeless yet fresh.
 
 #
