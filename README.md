@@ -1,4 +1,5 @@
 ![Layla_Offline](https://github.com/user-attachments/assets/055d669d-ad6e-4275-b6bc-6c75e0ff775d)
+![ChatGPT](https://github.com/user-attachments/assets/0fed1d99-0e4d-45f8-badf-4d2fc7caa9ac)
 
 > Local female themed offline AI assistant for Android and iOS.
 #
@@ -8,9 +9,14 @@ Layla is an excellent AI assistant designed to operate entirely offline, ensurin
 One of Layla's standout features is its ability to load local .gguf files, allowing users to utilize custom or specialized language models directly on their devices. This functionality enables advanced users to experiment with or deploy specific models tailored to their needs, expanding Layla's utility beyond standard AI applications. By running entirely offline, Layla offers a private, flexible, and powerful platform for engaging with AI, all while ensuring that data never leaves the user's control.
 
 #
-### Layla Name
+### Optimization
 
-![ChatGPT](https://github.com/user-attachments/assets/0fed1d99-0e4d-45f8-badf-4d2fc7caa9ac)
+Optimizing Layla for each make and model of smartphone requires a tailored approach based on the device's hardware specifications. High-end devices, such as those with flagship Snapdragon or Apple A-series chipsets, are well-suited for running advanced AI models like Layla Full. For these devices, utilizing a high thread count (e.g., 4–6 threads) allows for faster processing and responsiveness. Additionally, enabling high-performance or gaming modes can ensure the CPU and GPU operate at their peak capacity. To avoid throttling, users should monitor device temperature and close unnecessary background applications to free up system resources. Ensuring sufficient internal storage (10–15% free space) and clearing app caches periodically can also enhance performance.
+
+For mid-range or budget devices, Layla Lite or a simplified model configuration is a more practical choice. These devices often have lower RAM and weaker CPUs, so setting a lower thread count (e.g., 2–3 threads) helps balance performance and stability. Disabling non-essential features, such as advanced animations or extended context lengths, can improve speed and reduce battery drain. Users should also keep their devices updated to the latest firmware, as manufacturers often release optimizations for resource-intensive applications. Additionally, managing background processes and prioritizing Layla through app settings can provide smoother operation on less powerful smartphones.
+
+#
+### Layla Name
 
 The name Layla, with its origins in Arabic meaning "night" or "dark beauty," has gained significant popularity in recent years, especially in Western countries. Its lyrical sound and romantic connotations have made it a favorite among parents seeking a name that is both elegant and modern. Layla has been featured prominently in songs and literature, adding to its charm and recognition. Rankings in baby name charts reveal a steady rise in its use, particularly in English-speaking countries, where it often appears among the top names for girls. Its widespread appeal transcends cultural boundaries, making it a name that feels timeless yet fresh.
 
