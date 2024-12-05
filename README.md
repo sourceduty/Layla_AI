@@ -25,7 +25,7 @@ In this context, the approach to privacy involves employing advanced encryption 
 
 > Alex: "*I didn't want to buy this female themed AI assistant, but it seems like a really smart option for offline AI and Android.*"
 
-> "*I think Layla Offline is a better name.*"
+> "*I think Layla Offline is a better name for it.*"
 
 #
 ### Related Links
