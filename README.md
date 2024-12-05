@@ -8,6 +8,11 @@ Layla is an excellent AI assistant designed to operate entirely offline, ensurin
 One of Layla's standout features is its ability to load local .gguf files, allowing users to utilize custom or specialized language models directly on their devices. This functionality enables advanced users to experiment with or deploy specific models tailored to their needs, expanding Layla's utility beyond standard AI applications. By running entirely offline, Layla offers a private, flexible, and powerful platform for engaging with AI, all while ensuring that data never leaves the user's control.
 
 #
+### Layla Name
+
+The name Layla, with its origins in Arabic meaning "night" or "dark beauty," has gained significant popularity in recent years, especially in Western countries. Its lyrical sound and romantic connotations have made it a favorite among parents seeking a name that is both elegant and modern. Layla has been featured prominently in songs and literature, adding to its charm and recognition. Rankings in baby name charts reveal a steady rise in its use, particularly in English-speaking countries, where it often appears among the top names for girls. Its widespread appeal transcends cultural boundaries, making it a name that feels timeless yet fresh.
+
+#
 ### Private Offline
 
 ![Private](https://github.com/user-attachments/assets/498c0660-b868-4fdc-9ed1-53a8286bdaa7)
