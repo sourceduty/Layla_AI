@@ -7,9 +7,11 @@ Layla is an excellent AI assistant designed to operate entirely offline, ensurin
 
 One of Layla's standout features is its ability to load local .gguf files, allowing users to utilize custom or specialized language models directly on their devices. This functionality enables advanced users to experiment with or deploy specific models tailored to their needs, expanding Layla's utility beyond standard AI applications. By running entirely offline, Layla offers a private, flexible, and powerful platform for engaging with AI, all while ensuring that data never leaves the user's control.
 
+#
+
 > Alex: "*I didn't want to buy this female themed AI-assistant, but it seems like a really smart option for offline AI and Android.*"
 
-"*I think Layla Offline is a better name.*"
+> "*I think Layla Offline is a better name.*"
 
 #
 ### Related Links
